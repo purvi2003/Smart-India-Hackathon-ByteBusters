@@ -17,3 +17,5 @@ The evaluation would be based on:
 -Probability scores of phishing domains on their proximity to the genuine domain.
 -Ability to detect new phishing domains in a reasonable time.
 -Ease of use and flexibility of output formats.
+
+https://drive.google.com/drive/folders/19aAP372dLkWIpidCBRsS5t5uZHAXqjpx
