@@ -3,7 +3,8 @@ SMART INDIA HACKATHON 2023
 PS Code: SIH1454
 Problem Statement Title: Create an intelligent system using AI/ML to detect phishing domains that imitate the look and feel of genuine domains.
 Team Name: Byte Busters
-Team Leader Name: Bhuvan Deep Sagar Institute Name: Netaji Subhas University of Technology
+Team Leader Name: Bhuvan Deep Sagar 
+Institute Name: Netaji Subhas University of Technology
 
  •
 Project Description
