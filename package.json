@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "expo": "^49.0.10",
-    "firebase": "^10.4.0",
-    "expo-mail-composer": "~12.3.0"
-  }
-}
