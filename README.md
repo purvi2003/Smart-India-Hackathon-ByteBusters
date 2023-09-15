@@ -18,4 +18,4 @@ The evaluation would be based on:
 -Ability to detect new phishing domains in a reasonable time.
 -Ease of use and flexibility of output formats.
 
-https://drive.google.com/drive/folders/19aAP372dLkWIpidCBRsS5t5uZHAXqjpx
+https://drive.google.com/drive/folders/1nb6tgxkuXVPbMT824bIkMGH1SvV-oJr4?usp=sharing
